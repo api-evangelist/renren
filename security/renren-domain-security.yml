@@ -1,0 +1,17 @@
+generated: '2026-07-20'
+method: probed
+source: live DNS/TLS/HTTP probes of apis.yml + OpenAPI hosts
+hosts:
+- host: www.renren.com
+  https: true
+  tls_version: TLSv1.3
+  cert_expires: Jan  5 23:59:59 2027 GMT
+  hsts: false
+domains:
+- domain: renren.com
+  dnssec: true
+  caa:
+  - renren.com.eo.dnse0.com.
+  spf: true
+  dmarc: true
+  dmarc_policy: quarantine
