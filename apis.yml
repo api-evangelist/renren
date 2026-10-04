@@ -45,8 +45,8 @@ modified: '2026-07-20'
 tags:
 - Company
 - Consumer
-- Social Networking
-- Social-Media
+- Social Network
+- Social Media
 - Web
 - China
 tags_raw:
@@ -56,6 +56,7 @@ tags_raw:
 - Social Media
 - Web
 - China
+- Social-Media
 apis: []
 maintainers:
 - FN: Kin Lane
