@@ -1,0 +1,11 @@
+{
+  "repo": "renren",
+  "feeds": [
+    {
+      "source": "http://www.renren.com/blog/",
+      "error": "ConnectionResetError"
+    }
+  ],
+  "post_count": 0,
+  "fetched": "2026-10-10T13:15:00Z"
+}
